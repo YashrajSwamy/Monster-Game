@@ -1,0 +1,10 @@
+Elements:
+1.Playing Characters[Human]-Boy
+2.Non-Playing Character[NPCs]-Level-1[fruits,vegetables,cold drinks,pizza,burger,maggi];Level-2[excercise,meditation,balance diet,obesity,lazyness,anger]
+3.Goal[Be Fit]-Level 1-If Got 100 he gets badge['FIT'],score-200 get badge['ENERGETIC'],Score-300 get badge['ALL ROUNDER']
+4.Rules-Lives=1;Spawning Fruits and vegetables and junk foods;collect healthy foods to get the badge if collected 5 junk food reach level 2 and get your points to 50 and start working on your body by excersice,meditation,balance diets.Game is won if you get all the badges.Game is lost when the player gets the 3 diseases in level 2.
+5.Balanced Rule-5 Junk and 3 diseases
+6.Adaptivity-Level[1,2];Sounds;Displaying Badges;Scores;Colectibles[Junk Food,Disease]
+7.Element Of Chance and skill-PC Movement by arrow keys and space key,npc movement-random.
+8.Feedback[Sounds,Scores,Display Of messages]
+9.Story-There is a sweet family in a town Swamys. Mrs.Swamy is worried for is son's health.To incoparate healthy habits she has sent her Yashraj to the market.More the healthy food Yashraj will collect more the rewards he will get.So,Help him to become healthy and earn rewards.

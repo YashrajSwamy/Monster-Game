@@ -56,7 +56,7 @@ function draw(){
     form.rule2.hide();
     form.rule3.hide();
     form.rule4.hide();
-    background(0);
+    background(marketbg);
 
     game();
     drawSprites();
